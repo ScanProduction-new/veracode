@@ -93,4 +93,5 @@ veracode_iac_secrets_scan:
   issues:
     trigger: false
     commands:
-      - "Veracode IAC Scan"   
+      - "Veracode IAC Scan"  
+   policy: "veracode policy"   
